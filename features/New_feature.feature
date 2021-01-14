@@ -1,4 +1,8 @@
 Feature: New feature
 
   Scenario:
-    <Some interesting scenario steps here>
+    Scenario 1
+    
+    When d
+    Given f
+    Then c
