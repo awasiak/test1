@@ -3,6 +3,6 @@ Feature: New feature
   Scenario:
     Scenario 1
     
-    When d
+    When daa
     Given f
     Then c
